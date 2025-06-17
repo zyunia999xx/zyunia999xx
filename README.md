@@ -21,7 +21,7 @@
 - プログラミング教育（教育版Minecraft / 小学生向け）
 - 企画立案、ワークショップ設計、教材制作、LP制作 etc.
 
-「どうしたら人が幸せになるか？」を起点に仕事をデザインしています。
+「どうしたら人が幸せになるか？」を起点に活動しています。
 
 ---
 
@@ -42,24 +42,36 @@
 
 ---
 
+## 🏗️ Projects & Achievements
+
+- 🏆 **STAGE:0 2021** LoL部門 全国優勝（N高 LoL部門）
+- 🎓 地元高校eスポーツ部の改革／指導・マネジメント
+- 🧑‍🏫 Minecraftを使った小学生向けプログラミング教育の開発・講師
+- 🧠 教育とゲームを融合させたワークショップを複数開催
+- 🕹️ Unity製マルチ対戦ゲーム『SmashHockey』『8番エグチ』開発中
+- 🧪 LoLを用いた戦術合宿キャンプでメイン講師／構造講義を実施
+
+<details>
+<summary>▶ 詳しい経歴はこちら</summary>
+
+**開発・教育・企画分野の詳細な経歴については現在整備中です。  
+[こちら](https://mc-event.vercel.app/) のイベントLPや [Xアカウント](https://x.com/zyunizyunia) もぜひご覧ください。**
+
+</details>
+
+---
+
 ## 📊 GitHub Stats
 
-<p align="center"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyunizyunia&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-  <img alt="GitHub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=zyunizyunia&count_private=true&show_icons=true&theme=onedark" />
-</p>
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zyunizyunia&theme=onedark&column=7" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zyunizyunia&theme=transparent&border_radius=10" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=user&theme=transparent&border_radius=10" alt="Streak" />
   <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zyunizyunia&custom_title=じゅにあ's%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=user&custom_title=じゅにあ's%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
 </div>
 
 ---
+
+
 ---
 
 <div align="center">
